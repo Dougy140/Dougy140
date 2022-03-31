@@ -1,14 +1,15 @@
-- 👋 Hi,I’m Douglas Maina
+                    👋Hi,I’m Douglas Maina a Data Scientist.
+                    
 
-- 👀 I’m interested in Data Science and Data analytics
+ 👀 I’m interested in Data and technologies that revolve around data analysis. I love Exploring data and gaining insights from data for model building. 
 
-- 🌱 I’m currently learning cloud services
+ 🌱 I’m currently learning cloud services
 
-- 💞️ I’m looking to collaborate on building data products for the good of the society
+💞️ I’m looking to collaborate on building data products for the betterment of the society
  
-- 📫 How to reach me: douglasmaina140@gmail.com
+ 📫 How to reach me: douglasmaina140@gmail.com
 
-- linkedin: https://www.linkedin.com/in/douglas-maina-a607a3184/
+       linkedin: https://www.linkedin.com/in/douglas-maina-a607a3184/
 
 <!---
 Dougy140/Dougy140 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
