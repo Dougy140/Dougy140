@@ -1,9 +1,8 @@
-                    👋Hi,I’m Douglas Maina a Data Scientist.
+                    👋Hi,I’m Douglas Maina a Data Scientist/Data Analyst
                     
 
- 👀 I’m interested in Data and technologies that revolve around data analysis. I love Exploring data and gaining insights from data for model building. 
-
- 🌱 I’m currently learning cloud services
+ 👀 I’m interested in Data and technologies that revolve around data analysis.
+    I love Exploring data, gaining insights from data, building visual dashboards and building predictive models. 
 
 💞️ I’m looking to collaborate on building data products for the betterment of the society
  
